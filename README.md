@@ -2,7 +2,7 @@
 
 Congratulations! You are now able to understand how Javascript interacts with websites through the DOM. That's a big deal. Take a few seconds, breathe in, breath out and realize that you now know something you didn't before. Only a few lessons ago, you didn't even know what the DOM was. Now you understand how to manipulate it.
 
-![Perspective](https://web-dev-readme-photos.s3.amazonaws.com/js/perspective.gif)
+![powerful](https://web-dev-readme-photos.s3.amazonaws.com/js/perspective.gif)
 
 If you ever want to show your friends something cool, open up the console on any web page and then find the selector for an element, then modify it using
 Javascript in the console. Prepare to enjoy the shock and awe of your friends!
